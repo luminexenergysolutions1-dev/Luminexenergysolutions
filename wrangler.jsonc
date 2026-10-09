@@ -1,0 +1,6 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "luminex-energy-solutions",
+  "compatibility_date": "2026-10-08",
+  "pages_build_output_dir": "./dist"
+}
